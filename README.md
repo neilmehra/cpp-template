@@ -1,3 +1,3 @@
 # cpp-template
 
-My template for starting new C++23 projects with GCC.
+Template for starting C++23 projects with CMake, GCC, and GTest.
